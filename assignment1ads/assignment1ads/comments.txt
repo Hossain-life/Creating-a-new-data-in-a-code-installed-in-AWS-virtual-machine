@@ -1,0 +1,11 @@
+1) There are 5 segmentation markers in 058.ref, and there are 3 segmentation markers in 158.ref.
+
+2). My source documents are:
+USA : https://en.wikipedia.org/wiki/United_States
+Canada: https://en.wikipedia.org/wiki/Canada
+
+3) My scores are:
+phi-o-0=0.005
+burnin-duration=.25
+
+4) According to my opinion, program runs very well because phi-o-0 is almost close to 0.
